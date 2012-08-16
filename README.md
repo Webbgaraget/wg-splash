@@ -16,7 +16,7 @@ Install
 
 Changelog
 -------
-* 2012-07-27 Alpha 0.1 release
+* 2012-08-16 Alpha 0.1 release
 
 
 License (MIT)
